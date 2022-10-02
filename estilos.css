@@ -1,0 +1,328 @@
+.fixFloat{
+	clear:both;
+}
+
+body{
+	margin: auto;
+	width: 960px;
+	background-color:#DDD;
+	padding:0px;
+	background: url(fundo.jpg) repeat-x;
+}
+#cab img{
+	float:right;
+	margin-top:0px;
+}
+
+#social{
+	float:left;
+	margin-top:20px;
+}
+
+#social img{
+	width:93px;
+	height:75px;
+}
+
+#menu{
+	float:left;
+	margin-top: 35px;
+	width:600px;
+}
+
+#menu ul{
+	list-style:name;
+	padding:0px;
+	margin:0px;
+	background:linear-gradient(to bottom, #FFF, #666);
+}
+
+#menu li{
+	height:55px;
+	display:table-cell;
+	text-align:center;
+	vertical-align:middle;
+	width:100px;
+	border-right:1px solid #062;
+}
+
+#menu ul li a{
+	text-decoration:name;
+	font-size:20px;
+	color:#FFF;
+	
+}
+
+#banner{
+	margin-top:15px;
+}
+
+#banner p{
+	text-align:justify;
+}
+
+#banner img{
+	width:960px;
+	height:245px;
+}
+
+#hemoce p{
+	text-align:justify;
+}
+
+#hemoce img{
+	float:right;
+	margin-right:-10px;
+	margin-top:-45px;
+	margin-bottom:-20px;
+	padding:20px;
+	width:400px;
+	height: 400px;
+}
+
+#hemoce2 p{
+	text-align:justify;
+}
+
+#hemoce2 img{
+	width: 450px;
+}
+
+#neo h1{
+	margin-top:30px;
+}
+
+#neo th{
+	background:linear-gradient(to bottom, #FFAE4D, #C14C00);
+}
+
+#neo td{
+	background:linear-gradient(to bottom, #FFD097, #D68D35);
+}
+
+#neo table{
+	margin-top:10px;
+	margin-bottom:10px;
+}
+
+#footer{
+	color:#888;
+	border:#000 solid 1px;
+}
+
+#footer p{
+	display:inline-block;
+	width:316px;
+	text-align:center;
+}
+
+#historia h1 h2{
+	font-size:22px;
+}
+
+#historia img{
+	float:center;
+	margin-top:10px;
+}
+
+#engenheiro p{
+	text-align:justify;
+}
+
+#engenheiro img{
+	float:center;
+	padding: 20px;
+	width:500px;
+}
+
+#designer p{
+	text-align:justify;
+}
+
+#designer img{
+	float:center;
+	width:500px;
+	padding: 20px;
+}
+
+#programador p{
+	text-align:justify;
+}
+
+#programador img{
+	width:500px;
+	padding: 20px;
+}
+
+#linguagens p{
+	text-align:justify;
+}
+
+#linguagens img{
+	float:left;
+	width:450px;
+}
+
+#html p{
+	text-align:justify;
+}
+
+#html img{
+	float:right;
+	width:450px;
+}
+
+#sars p{
+	text-align:justify;
+}
+
+#sars img{
+	width:600px;
+}
+
+#vacina p{
+	text-align:justify;
+}
+
+#vacina img{
+	width:500px;
+	margin-top:-10px;
+	margin-bottom:-10px;
+	padding:20px;
+}
+#intro p{
+	text-align:justify;
+}
+
+#intro img{
+	margin-top:-10px;
+	margin-bottom:-10px;
+	padding:20px;
+}
+
+#intror p{
+	text-align:justify;
+}
+
+#intror img {
+	width:700px;
+	padding:20px;
+}
+
+#ead img{
+	height:150px;
+	margin-top:-50px;
+	margin-bottom:-50px;
+	padding:50px;
+}
+
+#desenvolvimento p{
+	text-align:justify;
+}
+
+#desenvolvimento img{
+	margin-top:-50px;
+	margin-bottom:-50px;
+	padding:50px;
+}
+
+#tema1 p{
+	text-align:justify;
+}
+
+#tema1 img{
+	margin-top:-10px;
+	margin-bottom:-10px;
+	width:600px;
+	padding:10px;
+}
+
+#tema2 p{
+	text-align:justify;
+}
+
+#tema2 img{
+	float: left;
+	width:200px;
+	height:300px;
+	margin-top:-30px;
+	margin-bottom:-10px;
+	padding:20px;
+}
+
+#tema3 p{
+	text-align:justify;
+}
+
+#tema3 h2{
+	margin-top:150px;
+}
+
+#tema3 img{
+	margin-top:-20px;
+	margin-bottom:-20px;
+	padding:20px;
+}
+
+#tema4 p{
+	text-align:justify;
+}
+
+#tema4 img{
+	width:600px;
+	margin-top:-160px;
+	margin-bottom:-160px;
+	padding:160px;
+}
+
+#economia p{
+	text-align:justify;
+}
+
+#economia img{
+	width:550px;
+	margin-top:-20px;
+	margin-bottom:-20px;
+	padding:20px;
+}
+
+#mei p{
+	text-align:justify;
+}
+
+#mei img{
+	width:600px;
+	margin-top:-20px;
+	margin-bottom:-20px;
+	padding:20px;
+}
+
+#inflaçao p{
+	text-align:justify;
+}
+
+#inflaçao img{
+	width:450px;
+	float:left;
+}
+
+#alimento p{
+	text-align:justify;
+}
+
+#alimento img{
+	width:450px;
+	margin-top:-20px;
+	float:right;
+} 
+
+#pagamento p{
+	margin-top:330px;
+}
+
+#pagamento img{
+	width:450px;
+	margin-top:-20px;
+	margin-bottom:-20px;
+	padding:20px;
+}
